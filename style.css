@@ -1,0 +1,32 @@
+.jumbotron{
+	padding-top: 6rem;
+	background-color: #dcf5de;
+}
+
+#gallery{
+	background-color: #dcf5de;
+}
+
+section{
+	padding-top: 5rem;
+}
+
+.svg{
+	margin-bottom: -1px;
+}
+
+blockquote{
+	font-style: italic;
+	font-size: 1.1em;
+}
+
+.ig-thumbnail{
+    width: 110px;
+    height: 110px;
+    float: left;
+    overflow: hidden;
+}
+
+.ig-thumbnail img{
+    width: 110px;
+}
